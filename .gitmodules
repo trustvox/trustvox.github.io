@@ -1,0 +1,3 @@
+[submodule "trustvox-ia"]
+	path = trustvox-ia
+	url = https://github.com/brunoocasali/trustvox-ia
